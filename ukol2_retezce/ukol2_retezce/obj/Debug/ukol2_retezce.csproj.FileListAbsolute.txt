@@ -1,0 +1,12 @@
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\bin\Debug\ukol2_retezce.exe.config
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\bin\Debug\ukol2_retezce.exe
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\bin\Debug\ukol2_retezce.pdb
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.Form1.resources
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.exe
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.pdb
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.Form2.resources
+C:\Users\marsy\Source\Repos\ukol2_retezce\ukol2_retezce\obj\Debug\ukol2_retezce.Form3.resources
